@@ -13,7 +13,7 @@
     "tsc": "tsc --noEmit",
     "tsc:watch": "npm run tsc -- --watch --preserveWatchOutput"
   },
-  "author": "carlldreyer",
+  "author": "YOU",
   "license": "MIT License",
   "dependencies": {
     "vue": "^3.2.37"
