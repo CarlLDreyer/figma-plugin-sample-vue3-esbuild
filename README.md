@@ -89,7 +89,7 @@ Builds a minified version ready to be published.
 
 `npm run build:plugin`
 
-Only builds the code.ts file located in **src / plugin**.
+Only builds the code.ts file located in **plugin**.
 
 ### Build (Only UI)
 
